@@ -1,2 +1,21 @@
-# OOP-Library-Management-System
-Python OOP-based Library Management System with book borrowing, member management, search, and file handling.
+
+# Library Management System
+
+## Features
+- Add Books
+- Register Members
+- Borrow Books
+- Return Books
+- Search Books
+- Due Date Tracking
+- JSON Data Storage
+
+## Technologies Used
+- Python
+- OOP
+- JSON
+- Datetime
+
+## How to Run
+
+python main.py
